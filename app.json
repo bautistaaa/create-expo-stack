@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "myapp",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "with-typescript-expo-router-stack",
+    "slug": "with-typescript-expo-router-stack"
+  }
+}
