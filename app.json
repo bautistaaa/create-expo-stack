@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "with-typescript-expo-router-tab-nativewind",
+    "scheme": "myapp",
+    "slug": "with-typescript-expo-router-tab-nativewind",
+    "version": "1.0.0",
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
